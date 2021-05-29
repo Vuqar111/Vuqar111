@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/vuqarhasanov14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="vuqarhasanov14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vugar-hasanov-7518b7212/" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"alt="https://www.linkedin.com/in/vugar-hasanov-7518b7212/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vuqar_hesenov_21" target="blank"><img align="center" src="https://www.iconfinder.com/icons/4373713/hackerrank_logo_logos_icon" alt="https://www.hackerrank.com/vuqar_hesenov_21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/vuqar_hesenov_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="https://www.hackerrank.com/vuqar_hesenov_21" height="30" width="40" /></a>
 </p>
 
 
