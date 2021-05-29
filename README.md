@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vugar Hasanov</h1>
-<h3 align="center">I am front-end developer</h3>
+<h1 align="left">Hi 👋, I'm Vugar Hasanov</h1>
+<h3 align="left">I am front-end developer</h3>
 
 - 🔭 I’m currently working on **Progriot website**
 
@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **vuqar.hesenov_2003@mail.ru**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
