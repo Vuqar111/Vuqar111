@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vugar Hasanov</h1>
 <h3 align="left">I am front-end developer</h3>
 
-- 🔭 I’m currently working on **openBook website**
+- 🔭 I’m currently working on **IzahTap website**
 
 - 🌱 I’m currently learning **everything**
 
