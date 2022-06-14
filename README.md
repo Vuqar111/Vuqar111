@@ -32,3 +32,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vuqar111&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD6C0F&background=000000&border=DD6C0F&stroke=DD6C0F&fire=DD6C0F&currStreakNum=DD6C0F&sideNums=DD6C0F&currStreakLabel=DD6C0F&sideLabels=DD6C0F&dates=DD6C0F)](https://git.io/streak-stats)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vuqar111)](https://github.com/anuraghazra/github-readme-stats)
+
