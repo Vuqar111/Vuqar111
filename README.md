@@ -1,13 +1,12 @@
 <h1 align="left">Hi 👋, I'm Vugar Hasanov</h1>
-<h3 align="left">I am front-end developer</h3>
+<h3 align="left">I am Data Scientist</h3>
 
-- 🔭 I’m currently working on **CRM systems**
 
 - 🌱 I’m currently learning **everything**
 
 - 💬 Ask me about **what did you want**
 
-- 📫 How to reach me **vuqar.hesenov_2003@mail.ru**
+- 📫 How to reach me **vugarhasanov2003@gmail.com**
 - ⚡ Fun fact: I love to draw, reading and play piano 
 
 
