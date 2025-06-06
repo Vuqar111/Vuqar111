@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Vugar Hasanov</h1>
-<h3 align="left">I am Data Scientist</h3>
+<h3 align="left">I am Software Developer</h3>
 
 
 - 🌱 I’m currently learning **everything**
